@@ -16,3 +16,4 @@
 | 장 | 노트북 | 블로그 정리 |
 |---|---|---|
 | 1장 한눈에 보는 머신러닝 | [01_the_machine_learning_landscape_kr.ipynb](ch01/01_the_machine_learning_landscape_kr.ipynb) | [블로그](https://jsmak.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-with-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-and-%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-1%EC%9E%A5) |
+| 2장 머신러닝 프로젝트 처음부터 끝까지 | [02_end_to_end_machine_learning_project_kr.ipynb](ch02/02_end_to_end_machine_learning_project_kr.ipynb) | 작성 예정 |
