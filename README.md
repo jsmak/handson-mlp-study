@@ -19,3 +19,4 @@
 | 2장 머신러닝 프로젝트 처음부터 끝까지 | [02_end_to_end_machine_learning_project_kr.ipynb](ch02/02_end_to_end_machine_learning_project_kr.ipynb) | [블로그](https://jsmak.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-with-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-and-%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-2%EC%9E%A5) |
 | 3장 분류 | [03_classification_kr.ipynb](ch03/03_classification_kr.ipynb) | [블로그](https://jsmak.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-with-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-and-%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-3%EC%9E%A5) |
 | 4장 모델 훈련 | [04_training_linear_models_kr.ipynb](ch04/04_training_linear_models_kr.ipynb) | 작성 예정 |
+| 5장 결정 트리 | [05_decision_trees_kr.ipynb](ch05/05_decision_trees_kr.ipynb) | 작성 예정 |
