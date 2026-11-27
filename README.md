@@ -21,3 +21,4 @@
 | 4장 모델 훈련 | [04_training_linear_models_kr.ipynb](ch04/04_training_linear_models_kr.ipynb) | 작성 예정 |
 | 5장 결정 트리 | [05_decision_trees_kr.ipynb](ch05/05_decision_trees_kr.ipynb) | 작성 예정 |
 | 6장 앙상블 학습과 랜덤 포레스트 | [06_ensemble_learning_and_random_forests_kr.ipynb](ch06/06_ensemble_learning_and_random_forests_kr.ipynb) | 작성 예정 |
+| 7장 차원 축소 | [07_dimensionality_reduction_kr.ipynb](ch07/07_dimensionality_reduction_kr.ipynb) | 작성 예정 |
